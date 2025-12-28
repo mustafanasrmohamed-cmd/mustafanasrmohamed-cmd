@@ -9,8 +9,7 @@
   <b>Welcome to my GitHub profile!</b>
 </p>
 
-<p align="center">
-I am <b>Mostafa Nasr</b>, a passionate <b>Data Analyst</b> learner. I specialize in transforming raw data into meaningful insights using Python and modern analytical tools. My goal is to bridge the gap between complex data and strategic decision-making.
+<p align="center"> <b>Mustafa Nasr</b>, a passionate <b>Data Analyst</b> learner. I specialize in transforming raw data into meaningful insights using Python and modern analytical tools. My goal is to bridge the gap between complex data and strategic decision-making.
 </p>
 
 <br>
