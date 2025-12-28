@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://github.com/claytonjhamilton/claytonjhamilton/blob/main/images/waving_hand.gif" width="18px"> 
-  <b>Welcome! I'm Mostafa Nasr</b>
+  <b>Welcome! I'm Mustafa Nasr</b>
 </p>
 
 <p align="center">
