@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
- <b>Mustafa Nasr</b>, a passionate <b>Data Analyst</b> learner. I specialize in transforming raw data into meaningful insights using Python and modern analytical tools. My goal is to bridge the gap between complex data and strategic decision-making.
+I am <b>Mostafa Nasr</b>, a passionate <b>Data Analyst</b> learner. I specialize in transforming raw data into meaningful insights using Python and modern analytical tools. My goal is to bridge the gap between complex data and strategic decision-making.
 </p>
 
 <br>
@@ -59,4 +59,3 @@
 <br>
 <i>"Data is the new oil. It's valuable, but if unrefined it cannot really be used."</i><br> — Clive Humby
 </p>
-
