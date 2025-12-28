@@ -1,4 +1,4 @@
-<h1 align = "center">
+#<h1 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1000&height=200&lines=Hello+there!++Mustafa+Nasr;Data+Analyst+&amp;+Python+Developer;Extracting+Insights+from+Data" alt="Typing SVG" /></a>
 </h1>
 
